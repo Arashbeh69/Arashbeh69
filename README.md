@@ -14,15 +14,25 @@ Currently completing an MSc in Data Science at TU Wien.
 - Reproducible ML and data pipelines
 - Model evaluation and error analysis
 
-## Selected project
+## Selected projects
 
-### [Wind Farm Investigation Copilot](https://github.com/Arashbeh69/wind-farm-investigation-copilot)
+### EU Energy Transition Analytics
+
+A reproducible analysis of electricity-generation transitions in Austria, Germany, the Netherlands, and Sweden using Python, SQL, DuckDB, Eurostat data, and Tableau.
+
+The project includes a validated analytical pipeline, reconciled generation metrics, automated tests, and interactive dashboards covering renewable growth, generation mix, and source concentration.
+
+[View repository](https://github.com/Arashbeh69/eu-energy-transition-analytics) · [Explore the interactive Tableau dashboard](https://public.tableau.com/views/EuropeanElectricityGenerationTransitions_/CountryExplorer)
+
+## Currently building
+
+### Wind-Turbine Underperformance Analysis
 
 A data-driven investigation workflow for identifying and analysing wind-turbine underperformance using SCADA data.
 
 ## Technical tools
 
-Python · SQL · PyTorch · scikit-learn · pandas · DuckDB · Git
+Python · SQL · PyTorch · scikit-learn · pandas · DuckDB · Tableau · Git
 
 ## Contact
 
