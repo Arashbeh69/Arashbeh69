@@ -24,6 +24,12 @@ The project includes a validated analytical pipeline, reconciled generation metr
 
 [View repository](https://github.com/Arashbeh69/eu-energy-transition-analytics) · [Explore the interactive Tableau dashboard](https://public.tableau.com/views/EuropeanElectricityGenerationTransitions_/CountryExplorer)
 
+### Product Analytics and Experimentation
+
+An end-to-end retail product analytics project using Python, SQL, DuckDB, and Tableau. It covers lifecycle funnels, cohort retention, point-in-time customer segmentation, and a clearly separated simulated experiment with confidence intervals and guardrail metrics.
+
+[View repository](https://github.com/Arashbeh69/product-analytics-experimentation) · [Explore interactive Tableau dashboards](https://public.tableau.com/views/ProductAnalyticsRetentionSegmentationSimulatedExperimentation/ProductPerformanceOverview)
+
 ## Currently building
 
 ### Wind-Turbine Underperformance Analysis
