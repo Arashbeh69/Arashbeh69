@@ -30,6 +30,14 @@ An end-to-end retail product analytics project using Python, SQL, DuckDB, and Ta
 
 [View repository](https://github.com/Arashbeh69/product-analytics-experimentation) · [Explore interactive Tableau dashboards](https://public.tableau.com/views/ProductAnalyticsRetentionSegmentationSimulatedExperimentation/ProductPerformanceOverview)
 
+### Support Ticket Triage
+
+A reproducible NLP system for classifying short banking-support messages across 77 intents. The project compares a TF-IDF logistic-regression baseline with a fine-tuned DistilRoBERTa model, then deploys the calibrated baseline with human-review guardrails through a CLI, FastAPI service, local browser demo, and Docker.
+
+The smaller baseline was selected because the transformer’s improvement was negligible and statistically uncertain relative to its additional size and CPU latency.
+
+[View repository](https://github.com/Arashbeh69/support-ticket-triage)
+
 ## Currently building
 
 ### Wind-Turbine Underperformance Analysis
